@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/admitkard/static/css/main.86de280f.chunk.css",
+    "main.js": "/admitkard/static/js/main.c539f93e.chunk.js",
+    "main.js.map": "/admitkard/static/js/main.c539f93e.chunk.js.map",
+    "runtime-main.js": "/admitkard/static/js/runtime-main.2b86759d.js",
+    "runtime-main.js.map": "/admitkard/static/js/runtime-main.2b86759d.js.map",
+    "static/js/2.fa4d5e67.chunk.js": "/admitkard/static/js/2.fa4d5e67.chunk.js",
+    "static/js/2.fa4d5e67.chunk.js.map": "/admitkard/static/js/2.fa4d5e67.chunk.js.map",
+    "index.html": "/admitkard/index.html",
+    "static/css/main.86de280f.chunk.css.map": "/admitkard/static/css/main.86de280f.chunk.css.map",
+    "static/js/2.fa4d5e67.chunk.js.LICENSE.txt": "/admitkard/static/js/2.fa4d5e67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b86759d.js",
+    "static/js/2.fa4d5e67.chunk.js",
+    "static/css/main.86de280f.chunk.css",
+    "static/js/main.c539f93e.chunk.js"
+  ]
+}
